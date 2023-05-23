@@ -1,4 +1,4 @@
-<h3 align="center">Привет 👋, я - Кокорин Антон</h3><h4 align="center">И я бэкенд разработчик, специализирущийся на Python, Django.Так же меня очень интересуют Телеграм боты и нейронные сети</h4><div align="center"><a href="https://github.com/akkrn/akkrn/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/version-on%20english-white"/></a></div>
+<h3 align="center">Привет 👋, я - Кокорин Антон</h3><h4 align="center">И я бэкенд разработчик, специализирущийся на Python, Django.Так же меня очень интересуют Телеграм боты и нейронные сети</h4><div align="center"><a href="https://github.com/akkrn/akkrn/blob/main/README.md" ><img alt="ru" src="https://img.shields.io/badge/version-on%20english-white"/></a></div>
 
 <br>
 <br>
