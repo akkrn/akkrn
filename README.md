@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm  Kokorin Anton</h3><h4 align="center">And i am a backend developer, have experience with Python, Django. I am interested in Telegram bots and neural networks</h4><div align="center"><a href="https://github.com/akkrn/akkrn/blob/main/README.rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-white"/></a></div>
+<h3 align="center">Hi 👋, I'm  Kokorin Anton</h3><h4 align="center">And i am a backend developer, have experience with Python, Django. I am interested in Telegram bots and neural networks</h4><div align="center"><a href="https://github.com/akkrn/akkrn/blob/main/README-rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-white"/></a></div>
 
 <br>
 <br>
