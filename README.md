@@ -5,7 +5,7 @@
 
 |:envelope: **Contacts**|<a href="https://t.me/a_kkrn"><img src="https://img.shields.io/badge/@a_kkrn-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="@a_kkrn" /></a> <a href="mailto:ant.kkrn@gmail.com"><img src="https://img.shields.io/badge/-ant.kkrn@gmail.com-%2314354c.svg?style=flat&logo=gmail&logoColor=red" alt="ant.kkrn@gmail.com" /></a> |
 |:-|:-|
-|👔 **Hire me**|[Resume on HH.RU](https://hh.ru/applicant/resumes/view?resume=a8a2c88cff0bff192a0039ed1f575a4a303266)|
+|👔 **Hire me**|[Page on LinkeIn](https://www.linkedin.com/in/akkrn/)|
 
 
 ---
