@@ -28,13 +28,6 @@
 [DDU Helper Bot](https://github.com/akkrn/help_ddu_bot) is  a telegram-bot designed to facilitate the protection of their rights and interests for people who have bought an apartment in shared construction and whose rights have been violated. Here you can calculate the amount of your penalty, learn how to properly accept the apartment, make a claim to the developer and get answers to the most common questions
 
 </details>
-
-<details>
-<summary><b>:bar_chart: GitHub Stats</b></summary>
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=akkrn&theme=flag-india&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&stroke=0211DD" atl="commits_stat" width="420"/></p>
-</details>
-
 <details>
 <summary><b>👀 Some Things About Me</b></summary>
 
