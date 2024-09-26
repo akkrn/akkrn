@@ -25,8 +25,7 @@
 
 <details><summary><b>💡 Current Project</b></summary>
 
-[DDU Helper Bot](https://github.com/akkrn/help_ddu_bot) is  a telegram-bot designed to facilitate the protection of their rights and interests for people who have bought an apartment in shared construction and whose rights have been violated. Here you can calculate the amount of your penalty, learn how to properly accept the apartment, make a claim to the developer and get answers to the most common questions
-
+[Tarot Master Bot](https://github.com/akkrn/tarot_bot) is Telegram bot offers tarot card readings through both text and voice inputs. It utilizes OpenAI API to interpret user queries and provide personalized tarot card interpretations. The bot integrates Telegram's Star payment system for seamless transactions and features a referral program. 
 </details>
 <details>
 <summary><b>👀 Some Things About Me</b></summary>
